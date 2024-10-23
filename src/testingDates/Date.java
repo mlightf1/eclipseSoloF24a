@@ -272,4 +272,11 @@ public class Date implements Cloneable
         Date who = (Date)tester.clone();
         System.out.println("they are equals="+tester.equals(who));
     }
+    
+   
+
+	public Object addOneDay() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
